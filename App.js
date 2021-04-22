@@ -47,6 +47,10 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   textList:{
-    padding: 10
+    padding: 10,
+    marginTop: 10,
+    backgroundColor: '#ccc',
+    borderColor: 'black',
+    borderWidth:1
   }
 });
